@@ -1,0 +1,151 @@
+body{
+    background-color: black;
+    font-size: 50px;
+    color:darkgoldenrod;
+}
+
+#home {
+    background-image: url(media/transitionretro.gif);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+
+#big {
+font-size: 100px;
+color:gold;
+
+}
+
+#asthetic {
+    bottom: 100px;
+    right: 50px;
+    left:  50px;
+}
+
+
+.green { 
+    color:blueviolet;
+}
+
+#purple { 
+ color:crimson;
+ position:absolute;
+    top: 10px;
+    left: 500px;
+
+
+
+
+}
+
+#title {
+    text-align: center;
+}
+
+#strange {
+    position: absolute;
+    top: 200px;
+    right: 0px;
+}
+
+#start {
+    background-image: url(media/pressstart.gif);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#transition {
+    position: absolute;
+    bottom: 50px;
+    left: 500px;
+}
+
+
+
+
+#introtoindex{
+
+
+}
+
+#matrix {
+ color: blue;   
+ position: absolute;
+ bottom:100px;
+left:10px;
+font-size: 25px;
+
+}
+
+#spin{
+    position: absolute;
+    top :100px;
+   left:5px;
+
+
+}
+
+#maybe {
+
+    font-size: 100px;
+
+}
+
+#squaredoor{
+    position: absolute;
+    bottom :-500px;
+   left:700px;
+
+
+
+}
+
+#retroshapes{
+    position: absolute;
+    top:100px;
+   left:1300px;
+
+
+
+
+
+}
+
+
+#vaporcircle{
+    position: absolute;
+    top :800px;
+   left: 1000px;
+
+
+
+}
+
+#movingbackground {
+background-image: url(media/codingretrowave.gif);
+background-repeat: no-repeat;
+background-size: cover
+}
+
+#vapetri{
+    position: absolute;
+    bottom :50SSpx;
+   left:500px;
+}
+
+#moveland{
+    background-image: url(media/trianglesandsphere.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+#wata{
+    background-image: url(media/trippywater\ .gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
